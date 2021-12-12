@@ -43,7 +43,7 @@ Any Version above 3.6 would be a good fit.<br>
   ### Results:
   Attendance file will be saved in attendane folder with date. <br>
   Some snapshots of working system are below.<br>
-  <b> Not registered would look something like this. </b>
+  <b> Not registered would look something like this. </b><br>
   <img src="https://github.com/r-sajal/Automatic-Attendance-System-Using-Computer-Vision/blob/main/ResultImages/Picture1.png">
   
   ### <b> Registered Student would look like below image. </b><br>
